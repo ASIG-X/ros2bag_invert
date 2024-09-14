@@ -13,7 +13,7 @@ To use this script, please follow the steps below.
 ```
 git clone https://github.com/ASIG-X/ros2bag_invert
 ```
-2. Define the custom message types of the source ros2bag file that need to be converted and put the files under the main directory. Please check folder `livox_ros_driver2` as an example.
+2. Add the folder of your own customed messages to the main directory. Please check folder `livox_ros_driver2` as an example.
 3. Run the following command in the terminal
 ```
 cd ros2bag_invert

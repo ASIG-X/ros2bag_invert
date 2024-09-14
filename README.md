@@ -7,7 +7,7 @@ System dependencies (tested on Ubuntu 22.04)
 sudo pip3 install rosbags
 ```
 ## Usage
-To use this plugin, please follow the steps below.
+To use this script, please follow the steps below.
 
 1. Clone the repository
 ```

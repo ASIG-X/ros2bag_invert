@@ -1,5 +1,5 @@
 # ros2bag_invert
-ros2bag_invert supports inverting ros2bag files with custom message types to rosbag files. 
+ros2bag_invert supports inverting ROS2 bag files with custom messages to ROS bag files. 
 ## Dependency
 System dependencies (tested on Ubuntu 22.04)
 * [rosbags](https://gitlab.com/ternaris/rosbags) (tested with version 0.10.3)
